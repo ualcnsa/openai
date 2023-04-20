@@ -39,6 +39,14 @@ Codificación, idioma, tabla de contenidos, tipo de documento
 
 // :leveloffset: 1
 
+////
+///  Copy button on code blocks
+////
+[.doc]
+
+:docinfo: shared-footer
+
+
 //includes
 :section: ROOT
 :sectionPath: modules/{section}/pages
